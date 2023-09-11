@@ -1,0 +1,10 @@
+[package]
+name = "app-console"
+version = "0.1.0"
+authors = ["Майоров Павел <mayorovp@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.94"
+nix = "0.20.0"
+intrusive-collections = "0.9.0"
